@@ -4,11 +4,7 @@
 - This reservation System is using for Hotel Booking. (Moduler Code)
 
 ## Features 
-- New Reservation
-- Check Reservation exists or not
-- Get Room No. ( Through Reservation_id, check What is the Room number) 
-- Update Reservation
-- Delete Reservation
+- Reserve a Room: Easily make new reservations by providing guest details, room numbers, and contact information.
 
 ## Tech Stack 
 - Backend: MySQL, MySQL-connector , JDBC(Java Database Connectivity)
