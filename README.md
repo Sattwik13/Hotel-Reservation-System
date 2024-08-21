@@ -13,3 +13,7 @@
 - Backend: MySQL, MySQL-connector , JDBC(Java Database Connectivity)
 - Database: MySQL
 - language: JAVA
+
+## Usage 
+- Upon running the application, you'll be presented with a menu to choose your desired operation (reservation, viewing, editing, or exiting).
+- Follow the prompts to input reservation details, view current reservations, edit existing bookings, and more.
