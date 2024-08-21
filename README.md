@@ -1,7 +1,7 @@
 ﻿# Hotel Reservation System
  
 ## Overview 
-- This reservation System is using for Hotel Booking.
+- This reservation System is using for Hotel Booking. (Moduler Code)
 
 ## Features 
 - New Reservation
