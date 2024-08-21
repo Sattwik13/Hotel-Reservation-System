@@ -10,7 +10,7 @@
 - Delete Reservations: Remove reservations that are no longer needed.
 
 ## Tech Stack 
-- Backend: MySQL, MySQL-connector , JDBC(Java Database Connectivity)
+- Backend: Java Development Kit (JDK), MySQL, MySQL-connector , JDBC(Java Database Connectivity)
 - Database: MySQL
 - language: JAVA
 
