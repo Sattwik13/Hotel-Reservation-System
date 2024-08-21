@@ -6,7 +6,7 @@
 ## Features 
 - New Reservation
 - Check Reservation exists or not
-- Get Room No.
+- Get Room No. ( Through Reservation_id, check What is the Room number) 
 - Update Reservation
 - Delete Reservation
 
